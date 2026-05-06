@@ -17,9 +17,11 @@ Instead of pressing `w`, `a`, `s`, and `d` on the keyboard, the player uses swit
 
 ## Demo
 
-<video src="docs/media/demo.mp4" controls width="700" style="max-width: 100%; height: auto;">
-  If embedded video is not supported, view the demo at `docs/media/demo.mp4`.
-</video>
+<p align="center">
+  <a href="docs/media/demo.mp4">
+    <img src="docs/media/demo_preview.png" alt="Click to watch the ASCII Racer controller demo" width="560">
+  </a>
+</p>
 
 ## The Game
 
