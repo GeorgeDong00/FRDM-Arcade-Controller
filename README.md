@@ -40,22 +40,51 @@ The score and elapsed time appear in the upper-left corner of the terminal. The 
 
 ## How to Play
 
-<img align="right" src="docs/images/noted.jpg" alt="Annotated FRDM controller" width="300" style="max-width: 100%; height: auto;">
-
-The FRDM board replaces the keyboard controls with physical inputs:
-
-| Board control | Game action |
-| --- | --- |
-| SW1 / Switch 1 | Accelerate |
-| SW3 / Switch 3 | Decelerate |
-| Accelerometer | Steer left or right by tilting the board |
-| Built-in green LED | Shows how strongly the board is being tilted |
-| Reset switch | Starts a new game session |
-| Peripheral LED / LED0 | Shows a red, red, green startup sequence |
-
-Hold the board vertically with the black zigzag closest to you. Tilt the board left or right to steer. A stronger tilt makes the built-in green LED brighter.
-
-<br clear="right">
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <p>The FRDM board replaces the keyboard controls with physical inputs:</p>
+      <table>
+        <thead>
+          <tr>
+            <th>Board control</th>
+            <th>Game action</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>SW1 / Switch 1</td>
+            <td>Accelerate</td>
+          </tr>
+          <tr>
+            <td>SW3 / Switch 3</td>
+            <td>Decelerate</td>
+          </tr>
+          <tr>
+            <td>Accelerometer</td>
+            <td>Steer left or right by tilting the board</td>
+          </tr>
+          <tr>
+            <td>Built-in green LED</td>
+            <td>Shows how strongly the board is being tilted</td>
+          </tr>
+          <tr>
+            <td>Reset switch</td>
+            <td>Starts a new game session</td>
+          </tr>
+          <tr>
+            <td>Peripheral LED / LED0</td>
+            <td>Shows a red, red, green startup sequence</td>
+          </tr>
+        </tbody>
+      </table>
+      <p>Hold the board vertically with the black zigzag closest to you. Tilt the board left or right to steer. A stronger tilt makes the built-in green LED brighter.</p>
+    </td>
+    <td valign="top" width="40%" align="center">
+      <img src="docs/images/noted.jpg" alt="Annotated FRDM controller" width="300">
+    </td>
+  </tr>
+</table>
 
 ## Quick Start
 
